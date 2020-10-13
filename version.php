@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2019092300;
-$plugin->requires  = 2018120300; // Supports 3.5 and above.
+//$plugin->requires  = 2018120300; // Supports 3.5 and above.
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->release   = "2.0";
 $plugin->component = 'scormreport_trends'; // Full name of the plugin (used for diagnostics).
